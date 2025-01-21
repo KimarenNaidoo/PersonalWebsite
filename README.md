@@ -1,4 +1,7 @@
 ### Personal Website
 
-Staging/Testing
-https://kimarennaidootest.netlify.com/
+- Staging/Testing Environment:
+`https://kimarennaidootest.netlify.app/`
+
+- Production Environment: 
+`https://kimarennaidoo.com`
