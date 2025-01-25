@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    margin: 0;
+    padding: 8px;
+}
+
+li a {    
+    text-align: center;  
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover {
+    color: cyan; 
+}
+
