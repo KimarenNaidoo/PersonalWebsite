@@ -5,7 +5,6 @@ ul {
     display: flex;
     justify-content: flex-end;
     gap: 1px;
-    background-color: black;
     position: fixed;
     top: 0;
     width: 100%;
@@ -20,10 +19,14 @@ li a {
     text-align: center;  
     padding: 8px;
     text-decoration: none;
-    color: white;
+    
+}
+
+a:visited {
+    color: inherit;
 }
 
 li a:hover {
-    color: cyan; 
+    color: white; 
 }
 
