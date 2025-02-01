@@ -1,11 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
 html {
     background-color: #040D12;
-    font-family: sans-serif;
-    
-    
 }
 
 body {
     margin: 0;
     color: #93B1A6;
+    font-family: 'JetBrains Mono', monospace;
 }
