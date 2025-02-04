@@ -24,6 +24,6 @@
 }
 
 .nav-links a:hover {
-    color: white;
+    color: var(--text-selected)
 }
 
