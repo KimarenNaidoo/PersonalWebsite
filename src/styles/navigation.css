@@ -1,8 +1,14 @@
 .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; /* check this on normal screens */
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
+    background-color: var(--background-color);
+    z-index: 1000;
 }
 
 .brand {

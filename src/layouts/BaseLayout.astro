@@ -1,10 +1,9 @@
 ---
 import '../styles/global.css';
 import HeaderComponent from '../components/HeaderComponent.astro';
-import AboutContent from '../pages/about-me.md';
-import SkillsContent from '../pages/skills.md';
-import ContactContent from '../pages/contact-me.md';
-import HobbiesContent from '../pages/hobbies.md';
+import BodyComponent from '../components/BodyComponent.astro';
+import FooterComponent from '../components/FooterComponent.astro';
+
 ---
 
 <html lang="en">
@@ -19,21 +18,8 @@ import HobbiesContent from '../pages/hobbies.md';
 	<body>
 		<HeaderComponent/>
 		<br>
-		<section class="sections" id="about-me">
-			<AboutContent/>
-		</section>
+		<BodyComponent/>
 		<br>
-		<section class="sections" id="skills">
-			<SkillsContent/>
-		</section>
-		<br>
-		<section class="sections" id="contact-me">
-			<ContactContent/>
-		</section>
-		<br>
-		<section class="sections" id="hobbies">
-			<HobbiesContent/>
-		</section>
-		<br>
+		<FooterComponent/>
 	</body>
 </html>
