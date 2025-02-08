@@ -2,7 +2,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%; /* check this on normal screens */
+    width: 95%;
     display: flex;
     justify-content: space-between;
     align-items: center;
