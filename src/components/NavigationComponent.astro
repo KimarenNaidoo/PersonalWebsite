@@ -5,17 +5,15 @@ import '../styles/navigation.css';
 <nav class="navbar">
     <div class="brand">Kimaren Naidoo</div>
     <ul class="nav-links">
-        <li><a href="#">Home</a></li>
-        <li><a href="#about-me">About Me</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#contact-me">Contact Me</a></li>
-        <li><a href="#hobbies">Hobbies</a></li>
+        <li><a class="nav-link" href="#">Home</a></li>
+        <li><a class="nav-link" href="#about-me">About Me</a></li>
+        <li><a class="nav-link" href="#skills">Skills</a></li>
+        <li><a class="nav-link" href="#contact-me">Contact Me</a></li>
+        <li><a class="nav-link" href="#hobbies">Hobbies</a></li>
     </ul>
 </nav>
 
 <script>
     import { initNavHighlight } from '../scripts/navigation.js';
-  
-  // Initialize the navigation highlight functionality
-  document.addEventListener('DOMContentLoaded', initNavHighlight); 
+    document.addEventListener('DOMContentLoaded', initNavHighlight); 
 </script>

@@ -33,7 +33,7 @@
     color: var(--text-selected)
 }
 
-.nav-links.active {
+.active {
     color: var(--text-selected);
 }
 
