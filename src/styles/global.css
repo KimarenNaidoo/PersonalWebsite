@@ -20,3 +20,12 @@ body {
     color: var(--primary-color);
     font-family: var(--font-main)
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--text-selected);
+}
