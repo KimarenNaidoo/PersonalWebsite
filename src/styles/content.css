@@ -6,3 +6,7 @@
     display: flex;
     justify-content: center;
 }
+
+.title.active {
+    color: var(--text-selected);
+}
