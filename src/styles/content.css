@@ -10,3 +10,12 @@
 .title.active {
     color: var(--text-selected);
 }
+
+.name {
+    color: var(--text-selected);
+}
+
+.content {
+    text-align: center;
+    margin: 0px 100px;
+}
