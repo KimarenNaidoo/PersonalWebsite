@@ -10,3 +10,24 @@
 .title.active {
     color: var(--text-selected);
 }
+
+.name {
+    color: var(--text-selected);
+}
+
+.content {
+    text-align: center;
+    margin: 0px 100px;
+}
+
+.home_links {
+    border: solid;
+    border-color: var(--secondary-color);
+    border-radius: 2rem;
+    margin: 0px 23rem;  
+    padding: 1rem 0px;
+}
+
+.home_links:hover {
+    border-color: var(--text-selected);
+}
