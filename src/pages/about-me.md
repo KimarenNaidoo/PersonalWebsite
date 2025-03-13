@@ -1,3 +1,15 @@
 ---
+import '../styles/content.css';
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, 
+
+<div class="content">
+    <p>My name is Kimaren Naidoo, a software engineer with a passion for building efficient, scalable, and secure applications. I’m always exploring new technologies, whether it's in <a target="_blank" href="#">DevOps</a>, <a target="_blank" href="#">Cybersecurity</a>, or <a target="_blank" href="#">Networking</a>.</p>
+    <p>I have a bachelor's in Computer science and IT. I am always passionate about learning new things. My journey in tech is fueled by curiosity and a constant desire to improve.</p>
+    <p>Beyond my technical pursuits, I have a deep appreciation for philosophy, particularly Stoicism. I believe in discipline, resilience, and the power of focused effort—values that shape both my work and personal life. I enjoy running long distances, improving my chess skills, studying philosphy, and diving into the complexities of physics, mathematics, and astrophysics. I’m also fascinated by cars, engines, and mechanical systems, always eager to learn how things work under the hood.</p>
+    <p>When I’m not writing code or studying a new topic, you’ll find me reading, watching UFC or F1, sketching, working out, or training for my next run. Above all, I strive to be a lifelong learner, a disciplined individual, and an intentional being and supportive presence for those around me.</p>
+
+    
+</div>
+
+
+
