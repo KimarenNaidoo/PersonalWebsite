@@ -1,3 +1,15 @@
 ---
+import '../styles/content.css';
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, 
+
+<div class="content">
+    <p>My name is Kimaren Naidoo, a software engineer with a passion for building efficient, scalable, and secure applications. I’m always exploring new technologies, whether it's in <a target="_blank" href="https://aws.amazon.com/devops/what-is-devops/">DevOps</a>, <a target="_blank" href="https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html">Cybersecurity</a>, or <a target="_blank" href="https://en.wikipedia.org/wiki/Computer_network">Networking</a>.</p>
+    <p>I have a <strong>bachelor's degree</strong> in Computer science and IT. I have an unwavering passion for learning. My journey in tech is fueled by curiosity and a constant desire to improve. I aspire to be a senior software engineer with deep expertise in DevOps and cloud computing. I am passionate about solving complex problems through technology and continuous learning.</p>
+    <p>Beyond my technical pursuits, I have a deep appreciation for philosophy, particularly <a target="_blank" href="https://en.wikipedia.org/wiki/Stoicism">Stoicism</a>. I believe in discipline, resilience, and the power of focused effort—values that shape both my work and personal life. I enjoy running long distances, improving my chess skills, studying philosophy, and diving into the complexities of physics, mathematics, and astrophysics. I’m also fascinated by cars, engines, and mechanical systems, always eager to learn how things work under the hood.</p>
+    <p>When I’m not writing code or studying a new topic, you’ll find me reading, watching <a target="_blank" href="https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship">UFC</a> or <a target="_blank" href="https://en.wikipedia.org/wiki/Formula_One">F1</a>, sketching, working out, or training for my next run. Above all, I strive to be a lifelong learner, a disciplined individual, and an intentional and supportive presence in the lives of those around me.</p>
+
+    
+</div>
+
+
+
