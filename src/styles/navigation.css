@@ -30,7 +30,7 @@
 }
 
 .nav-links a:hover {
-    color: var(--text-selected)
+    color: var(--text-selected);
 }
 
 .nav-link.active {
