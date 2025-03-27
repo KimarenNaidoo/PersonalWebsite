@@ -12,7 +12,7 @@ import '../styles/content.css';
         </div>
         <div class="hobby-card">
             <h3>Drawing</h3>
-            <p>I enjoy sketching characters and structures that I find interesting. I’m currently learning anatomy and perspective.</p>
+            <p>I enjoy sketching characters and structures that I find interesting. Drawing helps me express creativity and develop focus. I'm currently improving my skills in anatomy and perspective.</p>
         </div>
         <div class="hobby-card">
             <h3>Chess & Sudoku</h3>
@@ -24,7 +24,7 @@ import '../styles/content.css';
         </div>  
         <div class="hobby-card">
             <h3>Running</h3>
-            <p>I’m currently training for long-distance runs. Running helps clear my mind and stay disciplined.</p>
+            <p>Running helps me stay disciplined and fit. I'm working on building endurance and pushing myself to improve with every run. It clears my mind and boosts my energy.</p>
         </div>
         <div class="hobby-card">
             <h3>UFC</h3>
