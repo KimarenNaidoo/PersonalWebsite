@@ -35,5 +35,6 @@
 
 .nav-link.active {
     color: var(--text-selected);
+    font-weight: bold;
 }
 

@@ -1,3 +1,35 @@
 ---
+import '../styles/content.css';
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, 
+
+<div class="content">
+    <p>Outside of my professional career, I love exploring different hobbies that keep me inspired, curious, and balanced. Here's a glimpse into what I enjoy.</p>
+    </br>
+    <section class="hobbies">
+        <div class="hobby-card">
+            <h3>Reading</h3>
+            <p>Reading is one of my favorite ways to learn and relax. I enjoy books on history, philosophy, self-improvement, and fiction when I want to escape into other worlds.</p>
+        </div>
+        <div class="hobby-card">
+            <h3>Drawing</h3>
+            <p>I enjoy sketching characters and structures that I find interesting. Drawing helps me express creativity and develop focus. I'm currently improving my skills in anatomy and perspective.</p>
+        </div>
+        <div class="hobby-card">
+            <h3>Chess & Sudoku</h3>
+            <p>I enjoy puzzles and games that challenge the mind. Chess helps sharpen my focus and strategic thinking, and Sudoku is a relaxing mental exercise I can do anywhere.</p>
+        </div>
+        <div class="hobby-card">
+            <h3>F1</h3>
+            <p>I love watching F1 for the speed, strategy, and engineering brilliance. Every race weekend is a thrill, and I enjoy following both the drivers and the tech behind the cars.</p>
+        </div>  
+        <div class="hobby-card">
+            <h3>Running</h3>
+            <p>Running helps me stay disciplined and fit. I'm working on building endurance and pushing myself to improve with every run. It clears my mind and boosts my energy.</p>
+        </div>
+        <div class="hobby-card">
+            <h3>UFC</h3>
+            <p>The mix of striking, grappling, and mental toughness in MMA is fascinating to watch. I also admire the discipline and mindset of fighters.</p>
+        </div> 
+    </section>
+    <br>
+</div>

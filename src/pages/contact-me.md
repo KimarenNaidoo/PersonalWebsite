@@ -3,7 +3,9 @@ import '../styles/content.css';
 ---
 
 <div class="content">
+    <p>I am always eager to talk to and hear from like minded individuals.</p>
     <p>Have a question or just want to say hi? I'd love to hear from you!</p>
+    </br>
     <div class="social-links">
         <div class="social-links-block"><a href="mailto:kimarennaidoo@gmail.com" target="_blank"><img src="/gmail_google_icon.svg" alt="Gmail"/></a></div>
         <div class="social-links-block"><a href="https://github.com/KimarenNaidoo" target="_blank"><img src="/github.svg" alt="Github"/> </a></div>
