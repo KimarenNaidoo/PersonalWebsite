@@ -11,15 +11,15 @@ import '../styles/content.css';
             <p>I’m currently training for long-distance runs. Running helps clear my mind and stay disciplined.</p>
         </div>
         <div class="hobby-card">
-            <h3>Running</h3>
+            <h3>Drawing</h3>
+            <p>I enjoy sketching characters and structures that I find interesting. I’m currently learning anatomy and perspective.</p>
+        </div>
+        <div class="hobby-card">
+            <h3>Chess/Sudoku</h3>
             <p>I’m currently training for long-distance runs. Running helps clear my mind and stay disciplined.</p>
         </div>
         <div class="hobby-card">
-            <h3>Running</h3>
-            <p>I’m currently training for long-distance runs. Running helps clear my mind and stay disciplined.</p>
-        </div>
-        <div class="hobby-card">
-            <h3>Running</h3>
+            <h3>F1/UFC</h3>
             <p>I’m currently training for long-distance runs. Running helps clear my mind and stay disciplined.</p>
         </div>  
     </section>
