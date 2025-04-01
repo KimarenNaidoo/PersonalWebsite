@@ -81,3 +81,8 @@
         color: var(--text-selected);
     }
 }
+
+.skill-title {
+    font-size: large;
+    font-weight: 900;
+}

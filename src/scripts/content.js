@@ -1,6 +1,9 @@
 
 export function initNavHighlight() {
     const navLinks = document.querySelectorAll('.nav-link');
+    const certificate = document.getElementById('certificates');
+    const project = document.getElementById('projects');
+
     if (!navLinks.length) return;
 
 	const titles = document.querySelectorAll('.title');
@@ -16,6 +19,12 @@ export function initNavHighlight() {
 		titles.forEach(title => {
 			if (link.innerText == title.innerText)
 				title.classList.add("active");
+
+            if (link.innerText == "Skills")
+            {
+                certificate.classList.add("active");
+                project.classList.add("active");
+            }
 		});
       });    
     });
