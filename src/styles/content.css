@@ -86,3 +86,19 @@
     font-size: large;
     font-weight: 900;
 }
+
+@media (max-width: 767px) {
+
+    .content {
+        text-align: center;
+        margin: 0px 30px;
+    }
+
+    .social-links {
+        display: flex;
+        justify-content: center;
+        gap: 10px; 
+        margin-top: 20px;
+    }
+
+}
