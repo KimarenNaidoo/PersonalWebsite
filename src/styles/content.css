@@ -90,15 +90,32 @@
 @media (max-width: 767px) {
 
     .content {
-        text-align: center;
         margin: 0px 30px;
     }
 
     .social-links {
-        display: flex;
-        justify-content: center;
         gap: 10px; 
-        margin-top: 20px;
     }
 
+    .sections {
+        padding-top: 7rem;
+    }
+
+    .skill-title {
+        font-size: small;
+    }
+
+    .social-links-block {
+        padding: 0.5rem;
+    }
+
+    .hobbies {
+        flex-direction: column;
+        gap: 1rem; 
+    }
+
+    .hobby-card {
+        flex: 0;
+        padding: 0.5rem;
+    }
 }

@@ -42,31 +42,18 @@
 @media (max-width: 767px) {
     
     .navbar {
-        position: fixed;
-        top: 0;
-        left: 0;
         width: 100%;
-        display: flex;
         flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
         padding: 1rem 0;
-        background-color: var(--background-color);
-        z-index: 1000;
         gap: 1rem;
     }
 
     .brand {
         padding-top: 1rem;
         font-size: 1.2rem;
-        font-weight: bold;
     }
     
     .nav-links {
-        display: flex;
-        list-style: none;
-        margin: 0;
-        padding: 0;
         gap: 1rem;
         font-size: 0.8rem;
     }
