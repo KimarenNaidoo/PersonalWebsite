@@ -5,6 +5,7 @@ import '../styles/content.css';
 <div class="content">
     <p>Outside of my professional career, I love exploring different hobbies that keep me inspired, curious, and balanced. Here's a glimpse into what I enjoy.</p>
     </br>
+    </br>
     <section class="hobbies">
         <div class="hobby-card">
             <h3>Reading</h3>

@@ -29,3 +29,12 @@ a {
 a:hover {
     color: var(--text-selected);
 }
+
+@media (max-width: 767px) {
+    
+    body {
+        margin: 0;
+        color: var(--primary-color);
+        font-size: small;
+    }
+}

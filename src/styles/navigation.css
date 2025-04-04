@@ -38,3 +38,24 @@
     font-weight: bold;
 }
 
+
+@media (max-width: 767px) {
+    
+    .navbar {
+        width: 100%;
+        flex-direction: column;
+        padding: 1rem 0;
+        gap: 1rem;
+    }
+
+    .brand {
+        padding-top: 1rem;
+        font-size: 1.2rem;
+    }
+    
+    .nav-links {
+        gap: 1rem;
+        font-size: 0.8rem;
+    }
+}
+
