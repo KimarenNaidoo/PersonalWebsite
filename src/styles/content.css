@@ -2,6 +2,16 @@
     padding-top: 50px;
 }
 
+#profileImage {
+    height: 12rem;
+    border-radius: 1rem;
+    filter: grayscale(100%);
+}
+
+#profileImage:hover {
+    filter: grayscale(0%);
+}
+
 .title {
     display: flex;
     justify-content: center;
