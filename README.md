@@ -6,4 +6,4 @@
 `https://kimarennaidootest.netlify.app/`
 
 - Production Environment: 
-`https://kimarennaidoo.com`
+`https://kimarennaidoo.org`
